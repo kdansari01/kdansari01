@@ -6,8 +6,8 @@ Experienced Frontend Devloper with 3months of experience in the industry. I have
 *   🌍  I'm based in Noida,Up,India
 *   🖥️  See my portfolio at [https://kdtechservice.netlify.app/](http://kdtechservice.netlify.app/)
 *   ✉️  You can contact me at [khusmuddin.ansari@gmail.com](mailto:khusmuddin.ansari@gmail.com)
-*   🧠  I'm learning React js<a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kdansari01?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>### Skills<p align="left">
+*   🧠  I'm learning <b>React js</b><a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer">
+</a><p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -17,22 +17,18 @@ Experienced Frontend Devloper with 3months of experience in the industry. I have
                                 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.codepen.io/kdansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://codesandbox.io/u/khusmuddin.ansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/kdansari01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/khusmuddin-ansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/kdansari01"><img src="https://github-readme-stats.vercel.app/api?username=kdansari01&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=10b981&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="kdansari01's GitHub stats" /></a><a
-                      href="http://www.github.com/kdansari01"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=kdansari01&stroke=10b981&background=000000&ring=ef4444&fire=ef4444&currStreakNum=10b981&currStreakLabel=ef4444&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a><a
-                    
+                   
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khusmuddin.ansari.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kdansari01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khusmuddin-ansari-0a2435219/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kdansari&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kdansari&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdansari&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kdansari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kdansari&icon=0&color=1)](https://visitcount.itsvg.in)
