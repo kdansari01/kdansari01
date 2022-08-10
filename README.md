@@ -7,6 +7,8 @@ Experienced Frontend Devloper with 3months of experience in the industry. I have
 *   🖥️  See my portfolio at [https://kdtechservice.netlify.app/](http://kdtechservice.netlify.app/)
 *   ✉️  You can contact me at [khusmuddin.ansari@gmail.com](mailto:khusmuddin.ansari@gmail.com)
 *   🧠  I'm learning <b>React js</b>
+-----------------------------
+[![](https://visitcount.itsvg.in/api?id=kdansari01&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### LANGUAGES & TOOLS
 <a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer">
@@ -41,8 +43,6 @@ Experienced Frontend Devloper with 3months of experience in the industry. I have
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kdansari01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kdansari01&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <b>Top Repositories</b>
