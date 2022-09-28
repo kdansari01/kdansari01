@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Experienced Frontend Devloper with 3months of experience in the industry. I have med. proficiency in some of the following programs: Javascript, Node, and React.js. I seek to establish a full time career as a frontend developer . As someone who understands web application architecture well, I am capable of training others in general web development.
 
 *   🌍  I'm based in Noida,Up,India
-*   🖥️  See my portfolio at https://kdtechdev.netlify.app/
+*   🖥️  See my portfolio at https://developerkd.netlify.app/
 *   ✉️  You can contact me at [khusmuddin.ansari@gmail.com](mailto:khusmuddin.ansari@gmail.com)
 *   🧠  I'm learning <b>React js</b>
 -----------------------------
