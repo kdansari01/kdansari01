@@ -1,7 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khusmuddin Ansari
 =========================================================================================================================================
 
-Experienced Frontend Devloper with 3months of experience in the industry. I have med. proficiency in some of the following programs: Javascript, Node, and React.js. I seek to establish a full time career as a frontend developer . As someone who understands web application architecture well, I am capable of training others in general web development.
+Experienced frontend developer with +6 months of experience
+building responsive and user-friendly web applications. Proficient in
+HTML, CSS, JavaScript, and front-end frameworks such as React js.
+Strong understanding of web development best practices and a
+passion for creating visually appealing and intuitive user interfaces.
+I am eager to continue learning and growing in this field.
 
 *   🌍  I'm based in Noida,Up,India
 *   🖥️  See my portfolio at https://developerkd.netlify.app/
