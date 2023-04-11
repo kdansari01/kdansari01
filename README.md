@@ -43,7 +43,9 @@ I am eager to continue learning and growing in this field.
   <a href="https://www.facebook.com/khusmuddin.ansari.7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" />
   </a> 
-  <a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>
+  <a href="https://www.github.com/kdansari01" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/github-159-721954.png?f=avif&w=512" width="50" height="50" />
+  </a>
   <a href="http://www.instagram.com/kdansari01" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" />
   </a> 
