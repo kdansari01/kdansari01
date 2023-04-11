@@ -35,7 +35,7 @@ I am eager to continue learning and growing in this field.
 ## 🌐 Socials:
 <p align="left">
   <a href="https://www.codepen.io/kdansari" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="50" height="50" style="color:red;" />
+    <img src="https://www.svgrepo.com/show/353582/codepen-icon.svg" width="50" height="50" />
   </a>
   <a href="https://codesandbox.io/u/khusmuddin.ansari" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/349295/apereo.svg" width="50" height="50" />
