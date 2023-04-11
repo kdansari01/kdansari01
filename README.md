@@ -38,7 +38,7 @@ I am eager to continue learning and growing in this field.
     <img src="https://www.svgrepo.com/show/353582/codepen-icon.svg" width="50" height="50" />
   </a>
   <a href="https://codesandbox.io/u/khusmuddin.ansari" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/code-sandbox-3629876-3031688.png?f=avif&w=512" width="50" height="50" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/code-sandbox-3772008-3151098.png?f=avif&w=512" width="50" height="50" />
   </a> 
   <a href="https://www.facebook.com/khusmuddin.ansari.7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" />
